@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <!-- Strings related to home -->
+    <string name="next_day">Next Day</string>
+    <string name="previous_day">Previous Day</string>
+
+    <!-- Strings related to login & signup -->
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="age">age</string>
+    <string name="weight">weight</string>
+    <string name="height">height</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="goal">goal</string>
+    <string name="loss">loss weight</string>
+    <string name="maintain">maintain weight</string>
+    <string name="gain">gain weight</string>
+    <string name="submit">submit</string>
+    <string name="signup">"don't have an account?"</string>
+    <string name="login">login</string>
+    <string name="signuptxt">signup</string>
+    <string name="blankInput">"enter all data above"</string>
+    <string name="blankInputs">"enter your username and password above"</string>
+    <string name="username_taken">username is invalid</string>
+    <string name="wrongInput">"your username or password are not correct"</string>
+    <string name="signupBlankInput">"fill all required inputs"</string>
+    <string name="usernameExist">"your username is already choosen"</string>
+    <string name="shortPassword">"your password should be more than 8 characters</string>
+    <string name="shortUsername">"your username should be more than 8 characters</string>
+    <string name="done">done</string>
+
+    <string name="latest">latest added</string>
+    <string name="cancel">cancel</string>
+    <string name="add">add</string>
+    <string name="kgm">kgm</string>
+    <string name="cm">cm</string>
+
+    <string name="years">years</string>
+
+    <string name="food_name">food name</string>
+    <string name="calories">calories</string>
+    <string name="per_gm">"/100 gram"</string>
+    <string name="insert">insert new</string>
+    <string name="enter_inputs">enter food name and calories</string>
+    <string name="gm">grams</string>
+
+</resources>
